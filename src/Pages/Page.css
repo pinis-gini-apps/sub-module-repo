@@ -1,0 +1,16 @@
+/* Page.css */
+.page-container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #f8f9fa; /* Light gray background */
+    padding-top: 5rem; /* Adjust for fixed navbar */
+    width: 100vw;
+}
+
+h1 {
+    font-size: 2rem;
+    color: #333;
+}
